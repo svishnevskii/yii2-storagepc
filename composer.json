@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "version": "0.0.1",
     "keywords": ["yii2","extension"," storage"," path"],
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
