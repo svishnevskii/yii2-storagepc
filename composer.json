@@ -1,0 +1,21 @@
+{
+    "name": "storagepc/yii2-storagepc",
+    "description": "Storage Path Controller - the extension helps it works",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," storage"," path"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "svishnevskii",
+            "email": "vsa@tatmedia.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "svishnevsii\\storagepc\\": "src"
+        }
+    }
+}
